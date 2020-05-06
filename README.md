@@ -8,3 +8,5 @@ EfficientNet算法笔记（附代码链接）https://blog.csdn.net/u014380165/ar
 神经网络的发展历程：https://www.cnblogs.com/noahzhixiao/p/10279321.html
 一个神经网络学习总结，代码介绍的CSDN博主Bubbliiiing（我还没来得及看，不过应该不错的）：https://blog.csdn.net/weixin_44791964
 深度学习笔记（十一）网络 Inception, Xception, MobileNet, ShuffeNet, ResNeXt, SqueezeNet, EfficientNet, MixConv：  https://www.cnblogs.com/xuanyuyt/p/11329998.html                                                                                博客园 博主文章链接：https://home.cnblogs.com/u/xuanyuyt/
+GCN理解： https://www.zhihu.com/question/54504471
+TensorFlow 2.x version's Tutorials and Examples, including CNN, RNN, GAN, Auto-Encoders, FasterRCNN, GPT, BERT examples, etc. TF 2.0版入门实例代码，实战教程：    https://github.com/dragen1860/TensorFlow-2.x-Tutorials
